@@ -1,0 +1,22 @@
+<IfModule mod_mime.c>
+AddType text/css .css
+AddType text/javascript .js
+</IfModule>
+<IfModule mod_rewrite.c>
+	RewriteEngine On	
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_URI} !\.(css|js|jpe?g|gif|png|svg|mp4)$ [NC]
+	RewriteRule ^(.+)$ index.php/?url=$1 [L]
+	Options +FollowSymLinks -Indexes
+	#ErrorDocument 403 http://localhost/erro404.html
+	<filesMatch "\.(html|htm|js|css)$">
+	  FileETag None
+	  <ifModule mod_headers.c>
+	     Header unset ETag
+	     Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+	     Header set Pragma "no-cache"
+	     Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+	  </ifModule>
+	</filesMatch>
+</IfModule>
