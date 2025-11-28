@@ -1,0 +1,15 @@
+php genesis create:model Cargos falconi.cargos
+php genesis create:model Docclass falconi.doc_classes
+php genesis create:model Documentos falconi.documents
+php genesis create:model Grupos falconi.grupos
+php genesis create:model Lotacao falconi.lotacoes
+php genesis create:model Modulos falconi.modules
+php genesis create:model Modelos falconi.doc_models
+php genesis create:model ModuleArea falconi.module_areas
+php genesis create:model ModulePermissions falconi.permissoes
+php genesis create:model Permissoes falconi.module_permissions
+php genesis create:model Profiles falconi.perfis
+php genesis create:model Setores falconi.sectors
+php genesis create:model TipoDocumento falconi.doc_types
+php genesis create:model Users falconi.users
+

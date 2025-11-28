@@ -1,0 +1,1 @@
+Select * from user_permissions where id_permissao=4 and id_modulo=3 and id_usuario=1

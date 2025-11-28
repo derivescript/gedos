@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos</title>
+    <script src="/documentacao/assets/js/funcoes.js"></script>
+    <style>
+        *{
+           font-family: Arial, Helvetica, sans-serif;
+           padding: 0;
+           margin: 0;
+        }
+        html,body{
+           height: 100%;
+        }
+
+        #layout-error{
+            padding: 0;
+            background: #fff;
+            position: relative;
+            height: 100%;
+        }
+
+        .main-top{
+            background: #333;
+            padding: 3%;
+            border-bottom: 4px solid olive;
+        }
+
+        #exception{
+            background: #333;
+            float: left;
+            padding: 2%;
+            color:#fff;
+            width: 71%;
+        }
+
+        #traces{
+            float: left;
+            background: #ccc;
+            width:25%;
+            height: 50em;
+            position: relative;
+            font-size: 1rem;
+        }
+
+        .trace{
+            background: #f1f1f1;
+            padding: 2%;
+            border-bottom: 2px solid #ccc;
+        }
+
+        .text-white{
+            color:white;
+        }
+
+        .code{
+            padding: 1%;
+            position: relative;
+            margin: 0px;
+            float: left;
+            background: #112233;
+            width: 73%;
+            font-size: 100%;
+        }
+
+        .line-error{
+            color: #ff9933 !important;
+        }
+
+        .arquivo{
+            color:#3f8f03;
+        }
+
+        .linha{
+            color:#355;
+        }
+
+        .line{
+            color:#999;
+        }
+
+        .funcao{
+            color:#ff3333;
+        }
+        .php{
+            color:#09a0e0;
+        }
+
+        .public{
+            color:#04bfb9;
+        }
+        
+        .code{
+            color:#09DEE9;
+        }
+    </style>
+</head>
+<body>
+   <div id="layout-error" scrollable>
+        <div class="main-top">
+            <h1 class="text-white">Exemplos de uso do S.I.L.A.S</h1>
+        </div>
+        <div id="traces">
+            <ul>
+                <li><a href="/documentacao/pages/inicio.html" class="ajax-link" id="inicio" class="ajax-link">Inicio</a></li>
+                <li><a href="/documentacao/pages/controllerbasico.html" class="ajax-link">Controller Básico</a></li>
+                <li><a href="/documentacao/pages/chamandoviews.html" class="ajax-link">Chamando views</a class="ajax-link"></li>
+                <li><a href="/documentacao/pages/chamandoviews-com-dados.html" class="ajax-link">Chamando views com passagem de dados</a></li>
+            </ul>
+        </div>
+        <div id="exception">
+           Controller Básico
+        </div>
+        <div class="code" id="code">
+        
+        </div>
+   </div>
+</body>
+</html>

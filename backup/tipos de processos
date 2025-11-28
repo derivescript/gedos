@@ -1,0 +1,1524 @@
+
+<table>
+<tbody>
+<tr>
+<td>
+<input type="radio" value="172" name="item" id="item_172" title="Administração: Acordo de cooperação internacional" style="margin-right:10px">
+<label for="item_172">Administração: Acordo de cooperação internacional
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="178" name="item" id="item_178" title="Administração: Acordo de cooperação nacional" style="margin-right:10px">
+<label for="item_178">Administração: Acordo de cooperação nacional
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="66" name="item" id="item_66" title="Administração: Anuidades de contribuições" style="margin-right:10px">
+<label for="item_66">Administração: Anuidades de contribuições
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="72" name="item" id="item_72" title="Administração: Aquisição de materiais de consumo e bens permanentes" style="margin-right:10px">
+<label for="item_72">Administração: Aquisição de materiais de consumo e bens permanentes
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="91" name="item" id="item_91" title="Administração: Aquisição ou contratação de TI" style="margin-right:10px">
+<label for="item_91">Administração: Aquisição ou contratação de TI
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="225" name="item" id="item_225" title="Administração: Cadastro de fornecedor no SICAF" style="margin-right:10px">
+<label for="item_225">Administração: Cadastro de fornecedor no SICAF
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="165" name="item" id="item_165" title="Administração/Comissões e outros" style="margin-right:10px">
+<label for="item_165">Administração/Comissões e outros
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="73" name="item" id="item_73" title="Administração: Contratação de serviços com ou sem mão de obra" style="margin-right:10px">
+<label for="item_73">Administração: Contratação de serviços com ou sem mão de obra
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="226" name="item" id="item_226" title="Administração: Contrato/Aditivo" style="margin-right:10px">
+<label for="item_226">Administração: Contrato/Aditivo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="227" name="item" id="item_227" title="Administração: Contrato/Apuração de Responsabilidade" style="margin-right:10px">
+<label for="item_227">Administração: Contrato/Apuração de Responsabilidade
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="228" name="item" id="item_228" title="Administração: Contrato/Reequilíbrio Econômico" style="margin-right:10px">
+<label for="item_228">Administração: Contrato/Reequilíbrio Econômico
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="193" name="item" id="item_193" title="Administração: Desfazimento de bens móveis" style="margin-right:10px">
+<label for="item_193">Administração: Desfazimento de bens móveis
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="198" name="item" id="item_198" title="Administração: Desfazimento de Livros Didáticos" style="margin-right:10px">
+<label for="item_198">Administração: Desfazimento de Livros Didáticos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="181" name="item" id="item_181" title="Administração: Empenho diárias, estagiários e/ou outros" style="margin-right:10px">
+<label for="item_181">Administração: Empenho diárias, estagiários e/ou outros
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="62" name="item" id="item_62" title="Administração: GECC não servidor" style="margin-right:10px">
+<label for="item_62">Administração: GECC não servidor
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="61" name="item" id="item_61" title="Administração: GECC servidor" style="margin-right:10px">
+<label for="item_61">Administração: GECC servidor
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="24" name="item" id="item_24" title="Administração: Gestão de Contrato - Acompanhamento da Execução" style="margin-right:10px">
+<label for="item_24">Administração: Gestão de Contrato - Acompanhamento da Execução
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="105" name="item" id="item_105" title="Administração: Jurídico - Consulta jurídica – Assuntos diversos" style="margin-right:10px">
+<label for="item_105">Administração: Jurídico - Consulta jurídica – Assuntos diversos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="166" name="item" id="item_166" title="Administração/Organização, regulamentações, diretrizes, procedimentos, estudos e outros" style="margin-right:10px">
+<label for="item_166">Administração/Organização, regulamentações, diretrizes, procedimentos, estudos e outros
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="63" name="item" id="item_63" title="Administração: PASEP receitas próprias" style="margin-right:10px">
+<label for="item_63">Administração: PASEP receitas próprias
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="186" name="item" id="item_186" title="Administração/Pessoal: Designação ou Dispensa - CD, FG e FCC" style="margin-right:10px">
+<label for="item_186">Administração/Pessoal: Designação ou Dispensa - CD, FG e FCC
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="4" name="item" id="item_4" title="Administração/Pessoal: Viagem a Serviço no Exterior" style="margin-right:10px">
+<label for="item_4">Administração/Pessoal: Viagem a Serviço no Exterior
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="3" name="item" id="item_3" title="Administração/Pessoal: Viagem a Serviço no País" style="margin-right:10px">
+<label for="item_3">Administração/Pessoal: Viagem a Serviço no País
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="157" name="item" id="item_157" title="Administração: Prestação de Contas Anual" style="margin-right:10px">
+<label for="item_157">Administração: Prestação de Contas Anual
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="189" name="item" id="item_189" title="Administração: Procedimentos do Almoxarifado/Patrimônio" style="margin-right:10px">
+<label for="item_189">Administração: Procedimentos do Almoxarifado/Patrimônio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="199" name="item" id="item_199" title="Administração - Protocolo de Intenções para Cooperação Internacional" style="margin-right:10px">
+<label for="item_199">Administração - Protocolo de Intenções para Cooperação Internacional
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="183" name="item" id="item_183" title="Administração: Recebimento de doação de bens" style="margin-right:10px">
+<label for="item_183">Administração: Recebimento de doação de bens
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="106" name="item" id="item_106" title="Administração: Representação judicial e extrajudicial" style="margin-right:10px">
+<label for="item_106">Administração: Representação judicial e extrajudicial
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="23" name="item" id="item_23" title="Administração: Requisição de Certificado Digital Pessoa Física" style="margin-right:10px">
+<label for="item_23">Administração: Requisição de Certificado Digital Pessoa Física
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="180" name="item" id="item_180" title="Administração: Ressarcimento ao erário, cobrança judicial ou extrajudicial" style="margin-right:10px">
+<label for="item_180">Administração: Ressarcimento ao erário, cobrança judicial ou extrajudicial
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="200" name="item" id="item_200" title="Administração: Solicitação de Registro de ISBN" style="margin-right:10px">
+<label for="item_200">Administração: Solicitação de Registro de ISBN
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="74" name="item" id="item_74" title="Administração: Suprimento de Fundo" style="margin-right:10px">
+<label for="item_74">Administração: Suprimento de Fundo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="111" name="item" id="item_111" title="Administração: TED - Termo de Execução Descentralizada" style="margin-right:10px">
+<label for="item_111">Administração: TED - Termo de Execução Descentralizada
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="150" name="item" id="item_150" title="Administração: Termo Circunstanciado Administrativo (TCA)" style="margin-right:10px">
+<label for="item_150">Administração: Termo Circunstanciado Administrativo (TCA)
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="159" name="item" id="item_159" title="Agência de Inovação: Depósito de Patente" style="margin-right:10px">
+<label for="item_159">Agência de Inovação: Depósito de Patente
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="154" name="item" id="item_154" title="Agência de Inovação: Registro de Programa de Computador" style="margin-right:10px">
+<label for="item_154">Agência de Inovação: Registro de Programa de Computador
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="216" name="item" id="item_216" title="Assistência Estudantil: Auxílio Emergencial" style="margin-right:10px">
+<label for="item_216">Assistência Estudantil: Auxílio Emergencial
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="217" name="item" id="item_217" title="Assistência Estudantil: Auxílio para participação em eventos técnico-científicos" style="margin-right:10px">
+<label for="item_217">Assistência Estudantil: Auxílio para participação em eventos técnico-científicos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="218" name="item" id="item_218" title="Assistência Estudantil: Auxílio para tecnologias assistivas" style="margin-right:10px">
+<label for="item_218">Assistência Estudantil: Auxílio para tecnologias assistivas
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="219" name="item" id="item_219" title="Assistência Estudantil: Chamada Pública para aquisição de gêneros alimentícios da agricultura familiar" style="margin-right:10px">
+<label for="item_219">Assistência Estudantil: Chamada Pública para aquisição de gêneros alimentícios da agricultura familiar
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="220" name="item" id="item_220" title="Assistência Estudantil: Requerer uso do nome social" style="margin-right:10px">
+<label for="item_220">Assistência Estudantil: Requerer uso do nome social
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="128" name="item" id="item_128" title="CREAD: assessoria NEAD" style="margin-right:10px">
+<label for="item_128">CREAD: assessoria NEAD
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="117" name="item" id="item_117" title="CREAD: Colação de grau" style="margin-right:10px">
+<label for="item_117">CREAD: Colação de grau
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="124" name="item" id="item_124" title="CREAD: cursos de graduação" style="margin-right:10px">
+<label for="item_124">CREAD: cursos de graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="125" name="item" id="item_125" title="CREAD: cursos de pós-graduação" style="margin-right:10px">
+<label for="item_125">CREAD: cursos de pós-graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="123" name="item" id="item_123" title="CREAD: cursos técnicos" style="margin-right:10px">
+<label for="item_123">CREAD: cursos técnicos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="126" name="item" id="item_126" title="CREAD: equipe multidisciplinar" style="margin-right:10px">
+<label for="item_126">CREAD: equipe multidisciplinar
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="118" name="item" id="item_118" title="CREAD: Formação Inicial e Continuada" style="margin-right:10px">
+<label for="item_118">CREAD: Formação Inicial e Continuada
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="127" name="item" id="item_127" title="CREAD: mediação e tutoria" style="margin-right:10px">
+<label for="item_127">CREAD: mediação e tutoria
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="119" name="item" id="item_119" title="CREAD: Normas e Regulamentações" style="margin-right:10px">
+<label for="item_119">CREAD: Normas e Regulamentações
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="120" name="item" id="item_120" title="CREAD: Parcerias e cooperação técnica" style="margin-right:10px">
+<label for="item_120">CREAD: Parcerias e cooperação técnica
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="129" name="item" id="item_129" title="CREAD: polos EaD" style="margin-right:10px">
+<label for="item_129">CREAD: polos EaD
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="121" name="item" id="item_121" title="CREAD: Programas Institucionais" style="margin-right:10px">
+<label for="item_121">CREAD: Programas Institucionais
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="122" name="item" id="item_122" title="CREAD: Projeto Pedagógico de Curso" style="margin-right:10px">
+<label for="item_122">CREAD: Projeto Pedagógico de Curso
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="130" name="item" id="item_130" title="CREAD: tecnologia educacional" style="margin-right:10px">
+<label for="item_130">CREAD: tecnologia educacional
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="179" name="item" id="item_179" title="Demanda Externa: Gestão de Demandas de Órgãos de Controle e/ou Fiscalização" style="margin-right:10px">
+<label for="item_179">Demanda Externa: Gestão de Demandas de Órgãos de Controle e/ou Fiscalização
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="131" name="item" id="item_131" title="Ensino: Administrativo" style="margin-right:10px">
+<label for="item_131">Ensino: Administrativo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="90" name="item" id="item_90" title="Ensino: Assistência Estudantil" style="margin-right:10px">
+<label for="item_90">Ensino: Assistência Estudantil
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="224" name="item" id="item_224" title="Ensino/Assistência Estudantil: Plano Educacional Individualizado" style="margin-right:10px">
+<label for="item_224">Ensino/Assistência Estudantil: Plano Educacional Individualizado
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="132" name="item" id="item_132" title="Ensino: Atualização de ementários e bibliografias" style="margin-right:10px">
+<label for="item_132">Ensino: Atualização de ementários e bibliografias
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="133" name="item" id="item_133" title="Ensino: Atualização de Projeto Pedagógico de Curso" style="margin-right:10px">
+<label for="item_133">Ensino: Atualização de Projeto Pedagógico de Curso
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="134" name="item" id="item_134" title="Ensino: Auxílios e Bolsas" style="margin-right:10px">
+<label for="item_134">Ensino: Auxílios e Bolsas
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="135" name="item" id="item_135" title="Ensino: Avaliação Institucional" style="margin-right:10px">
+<label for="item_135">Ensino: Avaliação Institucional
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="209" name="item" id="item_209" title="Ensino: Cancelamento - Cursos Técnicos" style="margin-right:10px">
+<label for="item_209">Ensino: Cancelamento - Cursos Técnicos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="208" name="item" id="item_208" title="Ensino: Cancelamento - Ensino médio" style="margin-right:10px">
+<label for="item_208">Ensino: Cancelamento - Ensino médio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="136" name="item" id="item_136" title="Ensino: Colação de grau" style="margin-right:10px">
+<label for="item_136">Ensino: Colação de grau
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="207" name="item" id="item_207" title="Ensino: Desligamento - Cursos de pós-graduação lato sensu" style="margin-right:10px">
+<label for="item_207">Ensino: Desligamento - Cursos de pós-graduação lato sensu
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="206" name="item" id="item_206" title="Ensino: Desligamento - Cursos de pós-graduação stricto sensu" style="margin-right:10px">
+<label for="item_206">Ensino: Desligamento - Cursos de pós-graduação stricto sensu
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="205" name="item" id="item_205" title="Ensino: Desligamento - Cursos Superiores" style="margin-right:10px">
+<label for="item_205">Ensino: Desligamento - Cursos Superiores
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="137" name="item" id="item_137" title="Ensino: Diploma Digital" style="margin-right:10px">
+<label for="item_137">Ensino: Diploma Digital
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="138" name="item" id="item_138" title="Ensino: Eventos de Ensino" style="margin-right:10px">
+<label for="item_138">Ensino: Eventos de Ensino
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="139" name="item" id="item_139" title="Ensino: Extinção de Curso" style="margin-right:10px">
+<label for="item_139">Ensino: Extinção de Curso
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="173" name="item" id="item_173" title="Ensino: Formação de Professores" style="margin-right:10px">
+<label for="item_173">Ensino: Formação de Professores
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="176" name="item" id="item_176" title="Ensino: Formação de Professores -PIBID" style="margin-right:10px">
+<label for="item_176">Ensino: Formação de Professores -PIBID
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="174" name="item" id="item_174" title="Ensino: Formação de Professores - PID" style="margin-right:10px">
+<label for="item_174">Ensino: Formação de Professores - PID
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="175" name="item" id="item_175" title="Ensino: Formação de Professores - RP" style="margin-right:10px">
+<label for="item_175">Ensino: Formação de Professores - RP
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="140" name="item" id="item_140" title="Ensino: Normas e Regulamentos" style="margin-right:10px">
+<label for="item_140">Ensino: Normas e Regulamentos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="141" name="item" id="item_141" title="Ensino: Pagamento de processo seletivo" style="margin-right:10px">
+<label for="item_141">Ensino: Pagamento de processo seletivo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="142" name="item" id="item_142" title="Ensino: Parcerias e Cooperação Técnica" style="margin-right:10px">
+<label for="item_142">Ensino: Parcerias e Cooperação Técnica
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="143" name="item" id="item_143" title="Ensino: Prestação de Serviços" style="margin-right:10px">
+<label for="item_143">Ensino: Prestação de Serviços
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="144" name="item" id="item_144" title="Ensino: Processo seletivo" style="margin-right:10px">
+<label for="item_144">Ensino: Processo seletivo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="145" name="item" id="item_145" title="Ensino: Programas de Ensino" style="margin-right:10px">
+<label for="item_145">Ensino: Programas de Ensino
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="146" name="item" id="item_146" title="Ensino: Projeto de Ensino" style="margin-right:10px">
+<label for="item_146">Ensino: Projeto de Ensino
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="147" name="item" id="item_147" title="Ensino: Projeto Pedagógico de Curso" style="margin-right:10px">
+<label for="item_147">Ensino: Projeto Pedagógico de Curso
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="148" name="item" id="item_148" title="Ensino: Sistemas Institucionais" style="margin-right:10px">
+<label for="item_148">Ensino: Sistemas Institucionais
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="162" name="item" id="item_162" title="Ensino: Solicitação de Emissão de Diploma" style="margin-right:10px">
+<label for="item_162">Ensino: Solicitação de Emissão de Diploma
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="177" name="item" id="item_177" title="Ensino: Solicitação do Encceja" style="margin-right:10px">
+<label for="item_177">Ensino: Solicitação do Encceja
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="149" name="item" id="item_149" title="Ensino: Termos de Cooperação" style="margin-right:10px">
+<label for="item_149">Ensino: Termos de Cooperação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="163" name="item" id="item_163" title="Ensino: Trancamento de Matrícula - Cursos Superiores" style="margin-right:10px">
+<label for="item_163">Ensino: Trancamento de Matrícula - Cursos Superiores
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="164" name="item" id="item_164" title="Ensino: Trancamento de Matrícula - Cursos Técnicos" style="margin-right:10px">
+<label for="item_164">Ensino: Trancamento de Matrícula - Cursos Técnicos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="202" name="item" id="item_202" title="Ensino: Transferência - Cursos de pós-graduação stricto sensu" style="margin-right:10px">
+<label for="item_202">Ensino: Transferência - Cursos de pós-graduação stricto sensu
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="201" name="item" id="item_201" title="Ensino: Transferência - Cursos Superiores" style="margin-right:10px">
+<label for="item_201">Ensino: Transferência - Cursos Superiores
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="204" name="item" id="item_204" title="Ensino: Transferência - Cursos Técnicos" style="margin-right:10px">
+<label for="item_204">Ensino: Transferência - Cursos Técnicos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="203" name="item" id="item_203" title="Ensino: Transferência - Ensino médio" style="margin-right:10px">
+<label for="item_203">Ensino: Transferência - Ensino médio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="192" name="item" id="item_192" title="Estágios" style="margin-right:10px">
+<label for="item_192">Estágios
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="31" name="item" id="item_31" title="Extensão: Difusão e Divulgação da Produção Extensionista" style="margin-right:10px">
+<label for="item_31">Extensão: Difusão e Divulgação da Produção Extensionista
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="29" name="item" id="item_29" title="Extensão: Eventos de Extensão" style="margin-right:10px">
+<label for="item_29">Extensão: Eventos de Extensão
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="28" name="item" id="item_28" title="Extensão: FIC - Extensão" style="margin-right:10px">
+<label for="item_28">Extensão: FIC - Extensão
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="25" name="item" id="item_25" title="Extensão: Normatização e Regulamentação" style="margin-right:10px">
+<label for="item_25">Extensão: Normatização e Regulamentação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="33" name="item" id="item_33" title="Extensão: Parcerias Extensionistas" style="margin-right:10px">
+<label for="item_33">Extensão: Parcerias Extensionistas
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="30" name="item" id="item_30" title="Extensão: Prestação de Serviços" style="margin-right:10px">
+<label for="item_30">Extensão: Prestação de Serviços
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="32" name="item" id="item_32" title="Extensão: Programa Institucional de Bolsas de Extensão" style="margin-right:10px">
+<label for="item_32">Extensão: Programa Institucional de Bolsas de Extensão
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="26" name="item" id="item_26" title="Extensão: Programas de Extensão" style="margin-right:10px">
+<label for="item_26">Extensão: Programas de Extensão
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="27" name="item" id="item_27" title="Extensão: Projetos de Extensão" style="margin-right:10px">
+<label for="item_27">Extensão: Projetos de Extensão
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="34" name="item" id="item_34" title="Infraestrutura: Obras" style="margin-right:10px">
+<label for="item_34">Infraestrutura: Obras
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="156" name="item" id="item_156" title="Organização e Funcionamento: Regimento" style="margin-right:10px">
+<label for="item_156">Organização e Funcionamento: Regimento
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="153" name="item" id="item_153" title="Pesquisa: Criação de Grupo de Pesquisa e/ou Alteração" style="margin-right:10px">
+<label for="item_153">Pesquisa: Criação de Grupo de Pesquisa e/ou Alteração
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="116" name="item" id="item_116" title="Pesquisa: Eventos de Pesquisa" style="margin-right:10px">
+<label for="item_116">Pesquisa: Eventos de Pesquisa
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="114" name="item" id="item_114" title="Pesquisa: Normatização e Regulamentação" style="margin-right:10px">
+<label for="item_114">Pesquisa: Normatização e Regulamentação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="115" name="item" id="item_115" title="Pesquisa: Programa Institucional de Bolsas de Pesquisa" style="margin-right:10px">
+<label for="item_115">Pesquisa: Programa Institucional de Bolsas de Pesquisa
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="112" name="item" id="item_112" title="Pesquisa: Programas de Pesquisa" style="margin-right:10px">
+<label for="item_112">Pesquisa: Programas de Pesquisa
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="113" name="item" id="item_113" title="Pesquisa: Projetos de Pesquisa" style="margin-right:10px">
+<label for="item_113">Pesquisa: Projetos de Pesquisa
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="71" name="item" id="item_71" title="Pesquisa: Ressarcimento Publicação de Artigo Científico" style="margin-right:10px">
+<label for="item_71">Pesquisa: Ressarcimento Publicação de Artigo Científico
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="167" name="item" id="item_167" title="Pessoal: Abono de Permanência" style="margin-right:10px">
+<label for="item_167">Pessoal: Abono de Permanência
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="15" name="item" id="item_15" title="Pessoal: Aceleração da Progressão por Capacitação" style="margin-right:10px">
+<label for="item_15">Pessoal: Aceleração da Progressão por Capacitação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="36" name="item" id="item_36" title="Pessoal: Aceleração da Promoção Docente" style="margin-right:10px">
+<label for="item_36">Pessoal: Aceleração da Promoção Docente
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="60" name="item" id="item_60" title="Pessoal: Acertos Financeiros" style="margin-right:10px">
+<label for="item_60">Pessoal: Acertos Financeiros
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="161" name="item" id="item_161" title="Pessoal: Acertos Rescisórios CDT" style="margin-right:10px">
+<label for="item_161">Pessoal: Acertos Rescisórios CDT
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="58" name="item" id="item_58" title="Pessoal: Acumulação de Cargos, Funções, Empregos Públicos ou Aposentadorias" style="margin-right:10px">
+<label for="item_58">Pessoal: Acumulação de Cargos, Funções, Empregos Públicos ou Aposentadorias
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="38" name="item" id="item_38" title="Pessoal: Adicional Noturno" style="margin-right:10px">
+<label for="item_38">Pessoal: Adicional Noturno
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="93" name="item" id="item_93" title="Pessoal: Afastamento para Estudo ou Missão no Exterior" style="margin-right:10px">
+<label for="item_93">Pessoal: Afastamento para Estudo ou Missão no Exterior
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="59" name="item" id="item_59" title="Pessoal: Afastamento para Pós-Graduação" style="margin-right:10px">
+<label for="item_59">Pessoal: Afastamento para Pós-Graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="13" name="item" id="item_13" title="Pessoal: Afastamento para Serviço Eleitoral (TRE)" style="margin-right:10px">
+<label for="item_13">Pessoal: Afastamento para Serviço Eleitoral (TRE)
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="70" name="item" id="item_70" title="Pessoal: Ajuda de Custo" style="margin-right:10px">
+<label for="item_70">Pessoal: Ajuda de Custo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="12" name="item" id="item_12" title="Pessoal: Alteração de Dados Bancários" style="margin-right:10px">
+<label for="item_12">Pessoal: Alteração de Dados Bancários
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="39" name="item" id="item_39" title="Pessoal: Alteração de Dados Cadastrais/Funcionais/Pessoais" style="margin-right:10px">
+<label for="item_39">Pessoal: Alteração de Dados Cadastrais/Funcionais/Pessoais
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="20" name="item" id="item_20" title="Pessoal: Alteração de Jornada de Trabalho - Técnico-Administrativos em Educação" style="margin-right:10px">
+<label for="item_20">Pessoal: Alteração de Jornada de Trabalho - Técnico-Administrativos em Educação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="182" name="item" id="item_182" title="Pessoal: Alteração de Regime de Trabalho Professor EBTT" style="margin-right:10px">
+<label for="item_182">Pessoal: Alteração de Regime de Trabalho Professor EBTT
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="67" name="item" id="item_67" title="Pessoal: Aposentadoria" style="margin-right:10px">
+<label for="item_67">Pessoal: Aposentadoria
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="213" name="item" id="item_213" title="Pessoal: ASSEFAZ" style="margin-right:10px">
+<label for="item_213">Pessoal: ASSEFAZ
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="87" name="item" id="item_87" title="Pessoal: Assistência à Saúde Suplementar" style="margin-right:10px">
+<label for="item_87">Pessoal: Assistência à Saúde Suplementar
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="8" name="item" id="item_8" title="Pessoal: Ausência em Razão de Casamento" style="margin-right:10px">
+<label for="item_8">Pessoal: Ausência em Razão de Casamento
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="9" name="item" id="item_9" title="Pessoal: Ausência para Doação de Sangue" style="margin-right:10px">
+<label for="item_9">Pessoal: Ausência para Doação de Sangue
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="7" name="item" id="item_7" title="Pessoal: Ausência por Falecimento de Familiar" style="margin-right:10px">
+<label for="item_7">Pessoal: Ausência por Falecimento de Familiar
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="10" name="item" id="item_10" title="Pessoal: Auxílio Assistência Pré-Escolar/Creche" style="margin-right:10px">
+<label for="item_10">Pessoal: Auxílio Assistência Pré-Escolar/Creche
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="19" name="item" id="item_19" title="Pessoal: Auxílio Funeral" style="margin-right:10px">
+<label for="item_19">Pessoal: Auxílio Funeral
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="11" name="item" id="item_11" title="Pessoal: Auxílio Natalidade" style="margin-right:10px">
+<label for="item_11">Pessoal: Auxílio Natalidade
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="41" name="item" id="item_41" title="Pessoal: Auxílio-Transporte" style="margin-right:10px">
+<label for="item_41">Pessoal: Auxílio-Transporte
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="92" name="item" id="item_92" title="Pessoal: Avaliação de Desempenho Docente" style="margin-right:10px">
+<label for="item_92">Pessoal: Avaliação de Desempenho Docente
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="5" name="item" id="item_5" title="Pessoal: Avaliação de Desempenho TAE" style="margin-right:10px">
+<label for="item_5">Pessoal: Avaliação de Desempenho TAE
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="103" name="item" id="item_103" title="Pessoal: Avaliação de Estágio Probatório - Docente" style="margin-right:10px">
+<label for="item_103">Pessoal: Avaliação de Estágio Probatório - Docente
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="102" name="item" id="item_102" title="Pessoal: Avaliação de Estágio Probatório - TAE" style="margin-right:10px">
+<label for="item_102">Pessoal: Avaliação de Estágio Probatório - TAE
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="151" name="item" id="item_151" title="Pessoal: Averbação/Desaverbação de Tempo de Contribuição" style="margin-right:10px">
+<label for="item_151">Pessoal: Averbação/Desaverbação de Tempo de Contribuição
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="44" name="item" id="item_44" title="Pessoal: Cadastro de Dependente no Assento Funcional/IRPF" style="margin-right:10px">
+<label for="item_44">Pessoal: Cadastro de Dependente no Assento Funcional/IRPF
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="75" name="item" id="item_75" title="Pessoal: Cancelamento do Ressarcimento da Assistência à Saúde Suplementar" style="margin-right:10px">
+<label for="item_75">Pessoal: Cancelamento do Ressarcimento da Assistência à Saúde Suplementar
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="95" name="item" id="item_95" title="Pessoal: Colaboração Técnica entre Instituições Federais de Ensino" style="margin-right:10px">
+<label for="item_95">Pessoal: Colaboração Técnica entre Instituições Federais de Ensino
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="152" name="item" id="item_152" title="Pessoal: Contagem de tempo de Contribuição" style="margin-right:10px">
+<label for="item_152">Pessoal: Contagem de tempo de Contribuição
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="81" name="item" id="item_81" title="Pessoal: Contratação de Professor Substituto" style="margin-right:10px">
+<label for="item_81">Pessoal: Contratação de Professor Substituto
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="221" name="item" id="item_221" title="Pessoal: Contratação de Professor Visitante e Colaborador" style="margin-right:10px">
+<label for="item_221">Pessoal: Contratação de Professor Visitante e Colaborador
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="184" name="item" id="item_184" title="Pessoal: Contratação de Profissional Técnico Especializado em Libras" style="margin-right:10px">
+<label for="item_184">Pessoal: Contratação de Profissional Técnico Especializado em Libras
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="223" name="item" id="item_223" title="Pessoal:  CTC - Certidão de Tempo de Contribuição" style="margin-right:10px">
+<label for="item_223">Pessoal:  CTC - Certidão de Tempo de Contribuição
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="222" name="item" id="item_222" title="Pessoal: DTC - Declaração de Tempo de Contribuição" style="margin-right:10px">
+<label for="item_222">Pessoal: DTC - Declaração de Tempo de Contribuição
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="78" name="item" id="item_78" title="Pessoal: Encerramento de Afastamento para Pós-Graduação" style="margin-right:10px">
+<label for="item_78">Pessoal: Encerramento de Afastamento para Pós-Graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="80" name="item" id="item_80" title="Pessoal: Encerramento de Licença Para Interesses Particulares" style="margin-right:10px">
+<label for="item_80">Pessoal: Encerramento de Licença Para Interesses Particulares
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="230" name="item" id="item_230" title="Pessoal: Enquadramento de pessoas com deficiência" style="margin-right:10px">
+<label for="item_230">Pessoal: Enquadramento de pessoas com deficiência
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="212" name="item" id="item_212" title="Pessoal: Exames Médicos Periódicos (EMP)" style="margin-right:10px">
+<label for="item_212">Pessoal: Exames Médicos Periódicos (EMP)
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="45" name="item" id="item_45" title="Pessoal: Exclusão de Dependente no Assento Funcional/IRPF" style="margin-right:10px">
+<label for="item_45">Pessoal: Exclusão de Dependente no Assento Funcional/IRPF
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="99" name="item" id="item_99" title="Pessoal: Exercício Provisório" style="margin-right:10px">
+<label for="item_99">Pessoal: Exercício Provisório
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="18" name="item" id="item_18" title="Pessoal: Exoneração de Cargo Efetivo" style="margin-right:10px">
+<label for="item_18">Pessoal: Exoneração de Cargo Efetivo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="47" name="item" id="item_47" title="Pessoal: Férias - Alteração/Interrupção/Cancelamento" style="margin-right:10px">
+<label for="item_47">Pessoal: Férias - Alteração/Interrupção/Cancelamento
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="48" name="item" id="item_48" title="Pessoal: Férias - Regularização" style="margin-right:10px">
+<label for="item_48">Pessoal: Férias - Regularização
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="84" name="item" id="item_84" title="Pessoal: GEAP - Adesão/Inclusão de Dependentes" style="margin-right:10px">
+<label for="item_84">Pessoal: GEAP - Adesão/Inclusão de Dependentes
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="85" name="item" id="item_85" title="Pessoal: GEAP - Cancelamento" style="margin-right:10px">
+<label for="item_85">Pessoal: GEAP - Cancelamento
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="86" name="item" id="item_86" title="Pessoal: GEAP - Migração entre Planos" style="margin-right:10px">
+<label for="item_86">Pessoal: GEAP - Migração entre Planos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="104" name="item" id="item_104" title="Pessoal: Homologação de Estágio Probatório" style="margin-right:10px">
+<label for="item_104">Pessoal: Homologação de Estágio Probatório
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="55" name="item" id="item_55" title="Pessoal: Horário Especial para Servidor com Deficiência ou seu Dependente" style="margin-right:10px">
+<label for="item_55">Pessoal: Horário Especial para Servidor com Deficiência ou seu Dependente
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="94" name="item" id="item_94" title="Pessoal: Horário Especial para Servidor Estudante" style="margin-right:10px">
+<label for="item_94">Pessoal: Horário Especial para Servidor Estudante
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="16" name="item" id="item_16" title="Pessoal: Incentivo a Qualificação" style="margin-right:10px">
+<label for="item_16">Pessoal: Incentivo a Qualificação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="53" name="item" id="item_53" title="Pessoal: Isenção de Imposto de Renda" style="margin-right:10px">
+<label for="item_53">Pessoal: Isenção de Imposto de Renda
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="21" name="item" id="item_21" title="Pessoal: Licença Gestante" style="margin-right:10px">
+<label for="item_21">Pessoal: Licença Gestante
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="51" name="item" id="item_51" title="Pessoal: Licença Gestante Anterior ao Parto" style="margin-right:10px">
+<label for="item_51">Pessoal: Licença Gestante Anterior ao Parto
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="158" name="item" id="item_158" title="Pessoal: Licença para Atividade Política" style="margin-right:10px">
+<label for="item_158">Pessoal: Licença para Atividade Política
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="14" name="item" id="item_14" title="Pessoal: Licença para Capacitação" style="margin-right:10px">
+<label for="item_14">Pessoal: Licença para Capacitação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="79" name="item" id="item_79" title="Pessoal: Licença Para Interesses Particulares" style="margin-right:10px">
+<label for="item_79">Pessoal: Licença Para Interesses Particulares
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="57" name="item" id="item_57" title="Pessoal: Licença para Tratamento da própria Saúde SUBSTITUTO/CONTRATADO" style="margin-right:10px">
+<label for="item_57">Pessoal: Licença para Tratamento da própria Saúde SUBSTITUTO/CONTRATADO
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="56" name="item" id="item_56" title="Pessoal: Licença para Tratamento de Saúde ESTAGIÁRIO" style="margin-right:10px">
+<label for="item_56">Pessoal: Licença para Tratamento de Saúde ESTAGIÁRIO
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="22" name="item" id="item_22" title="Pessoal: Licença Paternidade" style="margin-right:10px">
+<label for="item_22">Pessoal: Licença Paternidade
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="98" name="item" id="item_98" title="Pessoal: Licença por Motivo de Afastamento do Cônjuge" style="margin-right:10px">
+<label for="item_98">Pessoal: Licença por Motivo de Afastamento do Cônjuge
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="50" name="item" id="item_50" title="Pessoal: Licença por Motivo de Doença em Pessoa da Família" style="margin-right:10px">
+<label for="item_50">Pessoal: Licença por Motivo de Doença em Pessoa da Família
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="188" name="item" id="item_188" title="Pessoal: Movimentação para compor força de trabalho" style="margin-right:10px">
+<label for="item_188">Pessoal: Movimentação para compor força de trabalho
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="89" name="item" id="item_89" title="Pessoal: Mudança de Operadora de Plano de Saúde" style="margin-right:10px">
+<label for="item_89">Pessoal: Mudança de Operadora de Plano de Saúde
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="195" name="item" id="item_195" title="Pessoal: Pagamento de Gratificação Natalina Proporcional ao exercício do cargo" style="margin-right:10px">
+<label for="item_195">Pessoal: Pagamento de Gratificação Natalina Proporcional ao exercício do cargo
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="6" name="item" id="item_6" title="Pessoal: Pagamento de Substituição" style="margin-right:10px">
+<label for="item_6">Pessoal: Pagamento de Substituição
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="68" name="item" id="item_68" title="Pessoal: Participação em evento de capacitação" style="margin-right:10px">
+<label for="item_68">Pessoal: Participação em evento de capacitação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="168" name="item" id="item_168" title="Pessoal: Pensão por morte" style="margin-right:10px">
+<label for="item_168">Pessoal: Pensão por morte
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="211" name="item" id="item_211" title="Pessoal: Promoção para Classe Titular" style="margin-right:10px">
+<label for="item_211">Pessoal: Promoção para Classe Titular
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="77" name="item" id="item_77" title="Pessoal: Prorrogação de Afastamento para Pós-Graduação" style="margin-right:10px">
+<label for="item_77">Pessoal: Prorrogação de Afastamento para Pós-Graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="82" name="item" id="item_82" title="Pessoal: Prorrogação de Contrato de Professor Substituto" style="margin-right:10px">
+<label for="item_82">Pessoal: Prorrogação de Contrato de Professor Substituto
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="229" name="item" id="item_229" title="Pessoal: Prorrogação de Contrato de Professor Visitante" style="margin-right:10px">
+<label for="item_229">Pessoal: Prorrogação de Contrato de Professor Visitante
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="100" name="item" id="item_100" title="Pessoal: Prorrogação de Contrato de Profissional Técnico Especializado em Libras" style="margin-right:10px">
+<label for="item_100">Pessoal: Prorrogação de Contrato de Profissional Técnico Especializado em Libras
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="107" name="item" id="item_107" title="Pessoal: Recesso Estagiário" style="margin-right:10px">
+<label for="item_107">Pessoal: Recesso Estagiário
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="210" name="item" id="item_210" title="Pessoal: Reconhecimento de Saberes e Competências (RSC)" style="margin-right:10px">
+<label for="item_210">Pessoal: Reconhecimento de Saberes e Competências (RSC)
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="171" name="item" id="item_171" title="Pessoal: Recurso" style="margin-right:10px">
+<label for="item_171">Pessoal: Recurso
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="96" name="item" id="item_96" title="Pessoal: Redistribuição ex officio" style="margin-right:10px">
+<label for="item_96">Pessoal: Redistribuição ex officio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="170" name="item" id="item_170" title="Pessoal: Relatório Semestral Consolidado" style="margin-right:10px">
+<label for="item_170">Pessoal: Relatório Semestral Consolidado
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="187" name="item" id="item_187" title="Pessoal: Remoção de Ofício" style="margin-right:10px">
+<label for="item_187">Pessoal: Remoção de Ofício
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="155" name="item" id="item_155" title="Pessoal: Remoção por Acompanhamento de Conjuge" style="margin-right:10px">
+<label for="item_155">Pessoal: Remoção por Acompanhamento de Conjuge
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="52" name="item" id="item_52" title="Pessoal: Remoção por Motivo de Saúde" style="margin-right:10px">
+<label for="item_52">Pessoal: Remoção por Motivo de Saúde
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="160" name="item" id="item_160" title="Pessoal: Remoção por Permuta" style="margin-right:10px">
+<label for="item_160">Pessoal: Remoção por Permuta
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="194" name="item" id="item_194" title="Pessoal: Requisição/Cessão - Servidores" style="margin-right:10px">
+<label for="item_194">Pessoal: Requisição/Cessão - Servidores
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="83" name="item" id="item_83" title="Pessoal: Rescisão de Contrato de Professor Substituto" style="margin-right:10px">
+<label for="item_83">Pessoal: Rescisão de Contrato de Professor Substituto
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="65" name="item" id="item_65" title="Pessoal: Ressarcimento ao Erário" style="margin-right:10px">
+<label for="item_65">Pessoal: Ressarcimento ao Erário
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="97" name="item" id="item_97" title="Pessoal: Retorno de Afastamento para Pós-Graduação após Licença Gestante" style="margin-right:10px">
+<label for="item_97">Pessoal: Retorno de Afastamento para Pós-Graduação após Licença Gestante
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="46" name="item" id="item_46" title="Pessoal: Retribuição Por Titulação" style="margin-right:10px">
+<label for="item_46">Pessoal: Retribuição Por Titulação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="190" name="item" id="item_190" title="Pessoal: Solicitação de Adicional de Insalubridade" style="margin-right:10px">
+<label for="item_190">Pessoal: Solicitação de Adicional de Insalubridade
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="191" name="item" id="item_191" title="Pessoal: Solicitação de Adicional de Periculosidade" style="margin-right:10px">
+<label for="item_191">Pessoal: Solicitação de Adicional de Periculosidade
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="69" name="item" id="item_69" title="Pessoal: Solicitação de Desconto de Faltas, Atrasos e Saídas Antecipadas" style="margin-right:10px">
+<label for="item_69">Pessoal: Solicitação de Desconto de Faltas, Atrasos e Saídas Antecipadas
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="49" name="item" id="item_49" title="Pessoal: Solicitação de Perícia em Trânsito" style="margin-right:10px">
+<label for="item_49">Pessoal: Solicitação de Perícia em Trânsito
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="214" name="item" id="item_214" title="Pessoal: Solicitação de recolhimento de contribuição previdenciária" style="margin-right:10px">
+<label for="item_214">Pessoal: Solicitação de recolhimento de contribuição previdenciária
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="196" name="item" id="item_196" title="Pessoal: Solicitação para Ação de Desenvolvimento em Serviço para Qualificação" style="margin-right:10px">
+<label for="item_196">Pessoal: Solicitação para Ação de Desenvolvimento em Serviço para Qualificação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="101" name="item" id="item_101" title="Pessoal: Suspensão de Afastamento para Pós-Graduação" style="margin-right:10px">
+<label for="item_101">Pessoal: Suspensão de Afastamento para Pós-Graduação
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="109" name="item" id="item_109" title="Pessoal: Termo Aditivo ao Termo de Compromisso de Estágio" style="margin-right:10px">
+<label for="item_109">Pessoal: Termo Aditivo ao Termo de Compromisso de Estágio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="110" name="item" id="item_110" title="Pessoal: Termo de Compromisso de Estágio - Cadastro Estagiário" style="margin-right:10px">
+<label for="item_110">Pessoal: Termo de Compromisso de Estágio - Cadastro Estagiário
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="108" name="item" id="item_108" title="Pessoal: Termo de Rescisão ao Termo de Compromisso de Estágio" style="margin-right:10px">
+<label for="item_108">Pessoal: Termo de Rescisão ao Termo de Compromisso de Estágio
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="17" name="item" id="item_17" title="Pessoal: Vacância - Posse em Cargo Inacumulável" style="margin-right:10px">
+<label for="item_17">Pessoal: Vacância - Posse em Cargo Inacumulável
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="35" name="item" id="item_35" title="Planejamento Estratégico: Gestão de Planos" style="margin-right:10px">
+<label for="item_35">Planejamento Estratégico: Gestão de Planos
+</label>
+</td>
+</tr>
+<tr>
+<td>
+<input type="radio" value="169" name="item" id="item_169" title="TIC: Solicitação de Parecer Técnico" style="margin-right:10px">
+<label for="item_169">TIC: Solicitação de Parecer Técnico
+</label>
+</td>
+</tr>
+</tbody>
+</table>

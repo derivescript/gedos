@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="200"
+   viewBox="0 0 105.83333 52.916666"
+   version="1.1"
+   id="svg235"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="gedos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview237"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.47"
+     inkscape:cx="229.1498"
+     inkscape:cy="100"
+     inkscape:window-width="1368"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs232" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:#ffffff"
+       id="g1003"
+       transform="matrix(1.2795213,0,0,1.2795213,-3.7533444,6.2217815)">
+      <rect
+         height="1"
+         width="12"
+         x="10"
+         y="2"
+         id="rect953"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="12"
+         x="10"
+         y="2"
+         id="rect955"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         transform="rotate(-90,6.5,16)"
+         width="20"
+         x="-3.5"
+         y="15.5"
+         id="rect957"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         transform="rotate(-90,25.5,14)"
+         width="16"
+         x="17.5"
+         y="13.5"
+         id="rect959"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="6"
+         x="17"
+         y="6"
+         id="rect961"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="14"
+         x="9"
+         y="9"
+         id="rect963"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="14"
+         x="9"
+         y="12"
+         id="rect965"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="14"
+         x="9"
+         y="15"
+         id="rect967"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="14"
+         x="9"
+         y="18"
+         id="rect969"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="10"
+         x="9"
+         y="21"
+         id="rect971"
+         style="fill:#ffffff" />
+      <rect
+         height="1"
+         width="7"
+         x="9"
+         y="24"
+         id="rect973"
+         style="fill:#ffffff" />
+      <path
+         d="m 22,2 v 1 h 2 a 1,1 0 0 1 1,1 v 2 h 1 V 4 A 2,2 0 0 0 24,2 Z"
+         id="path975"
+         style="fill:#ffffff" />
+      <path
+         d="M 10,2 V 3 H 8 A 1,1 0 0 0 7,4 V 6 H 6 V 4 A 2,2 0 0 1 8,2 Z"
+         id="path977"
+         style="fill:#ffffff" />
+      <path
+         d="m 8,30 v -1 0 A 1,1 0 0 1 7,28 V 26 H 6 v 2 a 2,2 0 0 0 2,2 z"
+         id="path979"
+         style="fill:#ffffff" />
+      <path
+         d="M 21.91,21.15 C 21.34,20.83 21,20.43 21,20 a 6.09,6.09 0 0 1 -0.21,1.59 c -1,4.07 -6,7.18 -12.12,7.4 H 8 v 1 h 0.72 c 8.86,-0.15 16.07,-3.15 17.14,-7 A 3.77,3.77 0 0 0 26,22 8.72,8.72 0 0 1 21.91,21.15 Z m -5.78,7 a 10.5,10.5 0 0 0 5.54,-6 8.94,8.94 0 0 0 3.15,0.79 C 24.07,25 20.91,27 16.13,28.13 Z"
+         id="path981"
+         style="fill:#ffffff" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:23.6829px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';fill:#ffffff;stroke:#666666;stroke-width:0.634361;stroke-opacity:0.988342"
+       x="32.918327"
+       y="23.741434"
+       id="text410"><tspan
+         sodipodi:role="line"
+         id="tspan408"
+         style="stroke:none;stroke-width:0.634361;fill:#ffffff"
+         x="32.918327"
+         y="23.741434">GEDOS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.25554px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';fill:#ffffff;stroke:none;stroke-width:0.167559;stroke-opacity:0.988342"
+       x="37.893681"
+       y="34.001713"
+       id="text584"><tspan
+         sodipodi:role="line"
+         id="tspan582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;stroke-width:0.167559;fill:#ffffff"
+         x="37.893681"
+         y="34.001713">Gestão de documentos</tspan></text>
+  </g>
+</svg>

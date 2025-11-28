@@ -1,0 +1,15 @@
+&lt;?php
+
+namespace apps\controllers;
+
+class HomeController extends \core\Controller
+{
+    //Metodo inicial
+    public function index()
+    {
+        //Chamando uma view (pagina html)
+        $this->view('WelcomeView');
+    }
+
+   
+}
