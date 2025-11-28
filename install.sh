@@ -20,6 +20,9 @@ sed -i 's/AllowOverride[[:space:]]\+None/AllowOverride All/g' "$APACHE_CONF"
 # Substitui Require all denied → Require all granted
 sed -i 's/Require all denied/Require all granted/g' "$APACHE_CONF"
 
+echo "ativando modulo rewrite"
+a2enmod rewrite
+
 echo "Reiniciando Apache..."
 systemctl restart apache2
 
