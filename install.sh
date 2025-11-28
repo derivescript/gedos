@@ -1,4 +1,6 @@
 #!/bin/bash
+#renomeado o htaccess
+mv htaccess .htaccess
 
 # Verifica se está rodando como root
 if [ "$EUID" -ne 0 ]; then
